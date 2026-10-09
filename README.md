@@ -1,6 +1,6 @@
-# Kovaaks-Theme-Orange
+# Kovaaks-Theme-MoltenOrange
 
-<img width="640" height="360" alt="Orange" src="https://github.com/user-attachments/assets/369fa98c-ac16-46bc-aa6c-7f8de4e8bc40" />
+<img width="640" height="360" alt="MoltenOrange" src="https://github.com/user-attachments/assets/369fa98c-ac16-46bc-aa6c-7f8de4e8bc40" />
 
 Download the .json file in this repository. Now, go on Steam, open up KovaaK's Steam page, and go to the settings icon in the middle right of the screen. You can see the icon in the picture below:
 
